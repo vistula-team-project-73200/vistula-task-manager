@@ -23,7 +23,7 @@ It is hosted on GitHub Pages.
 
 ## Running locally
 
-`fetch('config.json')` does not work over `file://`, so serve the folder:
+`fetch('config.json')` does not work over `file://`,Contribution by student 73549 so serve the folder:
 
 ```bash
 python3 -m http.server 8000
@@ -33,3 +33,6 @@ python3 -m http.server 8000
 ## Team contribution
 
 `contribution.html` and `contribution.json` are added to this repo by a partner's Pull Request.
+
+
+Contribution by student 73549-Emil Real Madrid
