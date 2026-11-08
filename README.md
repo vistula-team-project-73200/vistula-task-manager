@@ -36,3 +36,9 @@ python3 -m http.server 8000
 
 
 Contribution by student 73549-Emil Real Madrid
+
+## Pull request links:
+
+# My link: https://github.com/vistula-team-project-73549/vistula-task-manager/pull/1
+
+# My partners link: https://github.com/vistula-team-project-73200/vistula-task-manager/pull/1
